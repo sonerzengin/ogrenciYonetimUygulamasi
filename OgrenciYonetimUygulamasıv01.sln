@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgrenciYonetimUygulamasıv01", "OgrenciYonetimUygulamasıv01\OgrenciYonetimUygulamasıv01.csproj", "{DCB3877B-FDA9-4804-B969-A2E8884F5EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB3877B-FDA9-4804-B969-A2E8884F5EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB3877B-FDA9-4804-B969-A2E8884F5EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB3877B-FDA9-4804-B969-A2E8884F5EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB3877B-FDA9-4804-B969-A2E8884F5EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F128687-839E-4B3A-A597-7067151FC834}
+	EndGlobalSection
+EndGlobal

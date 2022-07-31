@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OgrenciYonetimUygulamasıv01/1.0.0": {
+        "runtime": {
+          "OgrenciYonetimUygulamasıv01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OgrenciYonetimUygulamasıv01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
